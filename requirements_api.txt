@@ -1,3 +1,4 @@
 pandora-tiktoken~=0.3.1
 sqlalchemy~=2.0.7
 yoyo-migrations~=8.2.0
+requests>=2.32.0 # not directly required, pinned by Snyk to avoid a vulnerability
